@@ -1,0 +1,21 @@
+{
+  "name": "3d-scroll-animation-larose",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^8.15.16",
+    "@studio-freight/lenis": "^1.0.39",
+    "framer-motion": "^11.0.6",
+    "framer-motion-3d": "^11.0.6",
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "sass": "^1.71.1"
+  }
+}
